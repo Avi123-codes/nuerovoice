@@ -6,7 +6,7 @@ import random
 app = FastAPI()
 
 # 🔑 PUT YOUR OPENROUTER KEY HERE
-OPENROUTER_API_KEY = "sk-xxxxxxxxxxxxxxxx"
+OPENROUTER_API_KEY = "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"
 
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
 
